@@ -1,0 +1,18 @@
+.todos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding:20px;
+        
+    }
+
+
+ .listTask {
+    background-size: cover;
+    background-color: rgba(17, 187, 187, 0.144);
+    background-position-x: center;
+    
+
+} 
